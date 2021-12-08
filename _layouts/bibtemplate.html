@@ -1,0 +1,31 @@
+---
+  layout: default
+  permalink: /publications/
+  title: "Publications"
+  modified: 2016-02-13 15:47
+  tags: [publications]
+  share: true
+---
+<!--{% assign gsid_add= 'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=' %}-->
+{% if entry.award %}<mark> [{{ entry.award }}]</mark>{% endif %}
+{{ reference }}
+{% if entry.note %}<mark> ({{ entry.note }})</mark>
+{% elsif entry.comment %}<mark> ({{ entry.comment }})</mark>
+{% endif %}
+<br>
+<div id="{{key}}-materials">
+<ul class="nav nav-pills" style="margin-top:-4px">
+{% if entry.abstract %}  <li><a data-toggle="collapse" href="#{{key}}-abstract">Abstract</a> </li>{% endif %}
+<li><a data-toggle="collapse" href="#{{key}}-bibtex">BibTeX</a></li>
+{% if entry.file %} <li><a href="{{entry.file}}" target="_blank">Download</a></li> {% endif %}
+{% if entry.doi %} <li><a href="https://dx.doi.org/{{entry.doi}}" target="_blank">Link</a></li>
+{% elsif entry.url %}<li><a href="{{entry.url}}" target="_blank">Link</a></li>
+{% elsif entry.website %}<li><a href="{{ entry.website }}" target="_blank">Link</a></li>{% endif %}
+{% if entry.arxiv %}<li><a href="https://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">ePrint</a></li>
+{% elsif entry.archiveprefix == "arXiv" %}<li><a href="https://arxiv.org/abs/{{ entry.eprint }}" target="_blank">ePrint</a></li>{%endif%}
+{% if entry.repo %}<li><a href="{{ entry.repo }}" target="_blank">Repo</a></li>{%endif%}
+{% if entry.image %}<li><img src="{{ entry.image }}" height="15px"></li>{%endif%}
+</ul>
+{% if entry.abstract %}  <p id="{{key}}-abstract" class="collapse">{{entry.abstract}}</p>{% endif %}
+<pre id="{{key}}-bibtex" class="pre pre-scrollable collapse">{{entry.bibtex}}</pre>
+</div>

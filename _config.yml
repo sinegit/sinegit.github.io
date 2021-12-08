@@ -1,0 +1,133 @@
+# Basic
+name:               "SINE Lab"
+title:              "Signal Information Network and Energy Laboratory at Cornell Tech"
+description:        "This is a page for the SINE lab in New York City. We are a lab focusing on research at the intersection of signal processing, network science and energy systems."
+logo:               images/logo/logo.png
+
+links:
+  email: as337@cornell.edu
+  google-scholar: Anna Scaglione
+  github: sinegit
+
+
+# URL
+url: https://sinelab.tech.cornell.edu               
+baseurl:            
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+plugins:
+  - jekyll/scholar
+  - jekyll-sitemap
+
+scholar:
+  style: assets/bibliography/ieee-with-url.csl
+  locale: en
+
+  source: _bibliography
+  bibliography: publications
+  bibliography_template: bibtemplate
+
+  replace_strings: true
+  join_strings: true
+
+  # use_raw_bibtex_entry: false
+  bibtex_filters:
+    #- superscript
+    - latex
+    #- markdown
+
+  group_by: type
+  
+  type_order: [book, incollection, ieeeproceedings, magazine, article, inproceedings, patent]
+  type_names: { magazine: Magazine Articles, patent: US Patents, ieeeproceedings: IEEE Proceedings Articles }
+  
+  sort_by: [year, month]
+  order: [descending, ascending]
+  
+  details_dir: publication
+  details_layout: noDetailsPage.html #bibtex.html # Use bibtex.html layout to generate details pages for bibtex entries. Use other non-existing names otherwise.
+  details_link: Details
+
+  bibliography_list_attributes:
+    reversed: "reversed"
+
+  # Navigation
+nav:
+  - name:           "home"
+    href:           "/"
+  - name:           "anna scaglione"
+    href:           "/anna-scaglione"
+  - name:           "research"
+    href:           "/research"
+    sublinks:
+      - name:           "research"
+        href:           "/research"
+      - name:           "separator"
+      - name:           "publications"
+        href:           "/research/publication"
+      - name:           "people"
+        href:           "/research/people"
+  - name:           "teaching"
+    href:           "/teaching"
+  - name:           "photos"
+    href:           "/photos"
+  - name:           "contact"
+    href:           "/contact"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+  -
+    scope:
+      path:         ""
+      type:         "photos"
+    values:
+      layout:       "photo_set"
+  -
+    scope:
+      path:         ""
+      type:         "research"
+    values:
+      layout:       "research"
+
+collections:
+  people:
+    output: true
+    permalink: /research/people/:title/index.html
+  photos:
+    output: true
+    permalink: /photos/:title/index.html
+  research:
+    output: true
+    permalink: /research/:title/index.html
+  projects:
+    output: true
+    permalink: /projects/:title/index.html

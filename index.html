@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<div class='container'>
+    <header class="masthead text-center">
+
+      <img class='img-responsive center-block' src="/images/people/anna_scaglione.jpg" width="30%" height="30%" />
+
+      <p>
+      <i>Directed by Anna Scaglione, the Signal, Information, Networks and Energy Laboratory (SINE Lab) at Cornell University focuses on research at the intersection of signal processing, network science and energy systems.</i>
+
+        <span style="display: block; margin-bottom: 3em"></span>
+
+      <a href="https://github.com/sinegit"><i class="fa fa-github"></i> SineGit</a>&nbsp;&nbsp;&nbsp;
+      <a href="mailto:as337@cornell.edu"><i class="fa fa-envelope-o"></i> as337@cornell.edu</a>
+      </p>
+
+      <div class="w3-container" style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
+        <div style="text-align:left">
+          <h3> Recent News </h3>
+          <u>Happenings of the last two months. Last updated on {{ "now" | date: "%m/%d/%Y" }}</u>
+          <span style="display: block; margin-bottom: 1em"></span>
+          <div class="news">
+              {% capture now %}{{'now' | date: '%s' | minus: 51840000 %}}{% endcapture %}
+              <ul style="list-style-position:outside;padding:20px" >
+                {% for new in site.data.news %}
+                  {% capture date %}{{new.date | date: "%s" | plus: 0 %}}{% endcapture %}
+                  {% if date > now %}
+                    <li>
+                      <span>
+                        {{ new.details }}
+                      </span>
+                    </li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+          </div>
+        </div >
+      </div>
+
+
+
+      <span style="display: block; margin-bottom: 3em"></span>
+
+      <span style="display: block; margin-bottom: 3em"></span>
+      Department of Electrical and Computer Engineering at Cornell Tech<br>
+      Bloomberg Center, RM 265, Cornell Tech, New York City, New York 10044
+      <span style="display: block; margin-bottom: 3em"></span>
+
+    </header>
+</div>
