@@ -2,7 +2,7 @@ Note: This page was built using the template provided by the folks from the [Kor
 
 # SINE lab page
 
-This is repository for [SINE lab page](http://sinegit.github.io/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
+This is the repository for [SINE lab page](http://sinegit.github.io/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
 
 ## Workflow
 
@@ -21,6 +21,7 @@ bundle install
 bundle exec jekyll build
 ```
 This will create the destination directory `_site/` and build the site into it.
+
 4. Add file contents to the index
 ```bash
 git add -A
@@ -40,9 +41,9 @@ The GitHub Pages site will be built from the `master` branch. Thus we need to pu
 
 1. Change the current working directory to the `_site` directory
 ```bash
-cd .side/
+cd _site/
 ```
-2. Tell GitHub Pages that there is no need to build (GitHub can build Jekyll site directly from source if it contains only supported plugins. We utilize some unsupported plugins.)
+2. Tell GitHub Pages that there is no need to build (GitHub can build Jekyll site directly from the source, the `sources` branch, if it contains only supported plugins. We utilize some unsupported plugins.)
 ```bash
 touch .nojekyll
 ```
@@ -69,12 +70,10 @@ git push origin master
 
 ## Run the page locally using Jekyll
 
-To run locally, follow instruction [here](https://jekyllrb.com/) to install Jekyll then run `jekyll serve` to see in `localhost:4000`. Here is a brief install guidelines.
+To run locally:
 
 ```bash
-sudo gem install jekyll
-sudo gem install rouge
-jekyll serve
+bundle exec jekyll serve
 ```
 
 ## Editing the lab website
