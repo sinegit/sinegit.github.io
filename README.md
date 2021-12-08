@@ -4,6 +4,69 @@ Note: This page was built using the template provided by the folks from the [Kor
 
 This is repository for [SINE lab page](http://sinegit.github.io/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
 
+## Workflow
+
+### Maintaining the `sources` branch
+
+1. Clone the `sources` branch of this repository
+```bash
+git clone -b sources https://github.com/sinegit/sinegit.github.io.git
+```
+2. Install the dependencies specified in the Gemfile
+```bash
+bundle install
+```
+3. Build the website
+```bash
+bundle exec jekyll build
+```
+This will create the destination directory `_site/` and build the site into it.
+4. Add file contents to the index
+```bash
+git add -A
+```
+5. Commit the changes
+```bash
+git commit -m "Your message"
+```
+6. Push the commit to the `sources` branch
+```bash
+git push origin sources
+```
+
+### Maintaining the `master` branch
+
+The GitHub Pages site will be built from the `master` branch. Thus we need to push the `_site` folder to the `master` branch
+
+1. Change the current working directory to the `_site` directory
+```bash
+cd .side/
+```
+2. Tell GitHub Pages that there is no need to build (GitHub can build Jekyll site directly from source if it contains only supported plugins. We utilize some unsupported plugins.)
+```bash
+touch .nojekyll
+```
+3. Add our repository
+```bash
+git remote add origin https://github.com/sinegit/sinegit.github.io.git
+```
+4. Switch to the `master` branch
+```bash
+git checkout -b master
+```
+5. Add file contents to the index
+```bash
+git add -A
+```
+6. Commit the changes
+```bash
+git commit -m "Your message"
+```
+7. Push the commit to the `master` branch
+```bash
+git push origin master
+```
+
 ## Run the page locally using Jekyll
 
 To run locally, follow instruction [here](https://jekyllrb.com/) to install Jekyll then run `jekyll serve` to see in `localhost:4000`. Here is a brief install guidelines.
