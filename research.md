@@ -27,7 +27,7 @@ Directed by Anna Scaglione, the Signal, Information, Networks and Energy (SINE) 
  {% if research.image %}
  <img src= "{{site.baseurl}}/images/research/{{research.image}}" align="left" vspace="400" hspace="400" style="padding: 10px 10px 10px 10px">
  {% else %}
- <img src= "http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg" vspace="40" hspace="40" style="padding: 10px 10px 10px 10px">
+ <img src= "https://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg" vspace="40" hspace="40" style="padding: 10px 10px 10px 10px">
  {% endif %}
  {% if research.description %}{{ research.description }}{% endif %}
  {% if research.projects %}

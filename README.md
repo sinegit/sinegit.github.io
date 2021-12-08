@@ -2,7 +2,7 @@ Note: This page was built using the template provided by the folks from the [Kor
 
 # SINE lab page
 
-This is the repository for [SINE lab page](http://sinegit.github.io/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
+This is the repository for [SINE lab page](https://sinegit.github.io/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
 
 ## Workflow
 
@@ -101,7 +101,7 @@ We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can cho
 
 - **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
 
-The changes will take approximately half a minute to render. You can see the new posts or changes on [http://sinegit.github.io/](http://sinegit.github.io/)!
+The changes will take approximately half a minute to render. You can see the new posts or changes on [https://sinegit.github.io/](https://sinegit.github.io/)!
 
 ### Add yourself
 

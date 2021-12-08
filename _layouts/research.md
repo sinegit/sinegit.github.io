@@ -6,7 +6,7 @@ layout: default
   {% if page.image %}
     <img width="300" src="{{site.baseurl}}/images/people/{{page.image}}" data-action="zoom">
   {% else %}
-    <img width="300" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"  data-action="zoom">
+    <img width="300" src="https://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"  data-action="zoom">
   {% endif %}
   <p> {{page.description}} <p>
   {% if page.projects %}

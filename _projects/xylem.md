@@ -10,7 +10,7 @@ This project is supported by [Xylem Inc](https://www.xylem.com/en-us/brands/flyg
 
 #### Principal Investigators:
 - [Anna Scaglione](/people/anna_scaglione) (PI)
-- [Cihan Tepedelenlioglu](http://wireless.faculty.asu.edu/) (co-PI)
+- [Cihan Tepedelenlioglu](https://wireless.faculty.asu.edu/) (co-PI)
 
 #### Postdocs:
 - [Sachin Kadam](/people/sachin_kadam)

@@ -10,7 +10,7 @@ joined: 2015
 {% if page.avatar %}
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 {% else %}
-<img width="300" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"  data-action="zoom">
+<img width="300" src="https://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"  data-action="zoom">
 {% endif %}
 
 ### Contact
