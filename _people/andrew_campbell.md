@@ -1,10 +1,10 @@
 ---
-name: Rojin Zandi
-title: Rojin Zandi
-position: alumni
+name: Andrew Campbell
+title: Andrew Campbell
+position: gradstudent
 avatar: 
-permalink: /research/people/rojin_zandi/
-joined: 2021
+permalink: /research/people/andrew_campbell/
+joined: 2022
 ---
 
 {% if page.avatar %}
@@ -15,11 +15,11 @@ joined: 2021
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `rz285@cornell.edu`<br>
+<i class="fa fa-envelope-o"></i>  `ac2458@cornell.edu`<br>
 <i class="fa fa-building"></i> Bloomberg Center 2nd Floor, Cornell Tech <br>
-<i class="fa fa-google"></i> [google scholar](https://scholar.google.com/citations?user=BYS_v0kAAAAJ&hl=en) <br>
+<i class="fa fa-google"></i> [google scholar](https://scholar.google.com/citations?user=<//TODO>&hl=en) <br>
 <!-- <i class="fa fa-bar-chart"></i> [Personal Website]()  <br> -->
-<i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/rojin-zandi-2018rz/)  <br>
+<i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/<//TODO>)  <br>
  
 
 <hr>
