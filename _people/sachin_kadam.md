@@ -1,7 +1,7 @@
 ---
 name: Sachin Kadam
 title: Sachin Kadam
-position: postdoc
+position: alumni
 avatar: sachin_kadam.jpg
 permalink: /research/people/sachin_kadam/
 joined: 2020
