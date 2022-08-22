@@ -26,5 +26,5 @@ joined: 2022
 
 ### About Me
 
-Rojin is a Ph.D. student in Electrical engineering at Cornell University. Previously, she was a M.S. student at San Jose State University advised by Birsen Sirkeci, working on generative learning methods for cancer detection. Her research interests are machine learning and optimization theory
+Andrew is a Ph.D. student in Electrical engineering at Cornell University.
 <hr>
