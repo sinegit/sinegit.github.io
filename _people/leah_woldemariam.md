@@ -15,7 +15,7 @@ joined: 2022
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i> `lsw85<at>cornell<dot>.edu`<br>
+<i class="fa fa-envelope-o"></i> `lsw85<at>cornell<dot>edu`<br>
 <i class="fa fa-building"></i> Bloomberg Center 2nd Floor, Cornell Tech <br>
 <i class="fa fa-google"></i> [google scholar](https://scholar.google.com/citations?user=<//TODO>&hl=en) <br>
 

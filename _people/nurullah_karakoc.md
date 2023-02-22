@@ -15,7 +15,7 @@ joined: 2017 a
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i> `nkarakoc<at>asu<dot>.edu`<br>
+<i class="fa fa-envelope-o"></i> `nkarakoc<at>asu<dot>edu`<br>
 <i class="fa fa-building"></i> Goldwater Center, Room 325, Tempe, AZ <br>
 <i class="fa fa-google"></i> [google scholar](https://scholar.google.com/citations?user=KWlGY88AAAAJ&hl=en) <br>
 

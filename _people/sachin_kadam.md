@@ -15,7 +15,7 @@ joined: 2020
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i> `skadam6<at>asu<dot>.edu`<br>
+<i class="fa fa-envelope-o"></i> `skadam6<at>asu<dot>edu`<br>
 <i class="fa fa-building"></i> Goldwater Center, Room 325, Tempe, AZ <br>
 <i class="fa fa-google"></i> [google scholar](https://scholar.google.co.in/citations?user=cuEB7yMAAAAJ&hl=en) <br>
 <i class="fa fa-bar-chart"></i> [Personal Website](https://www.public.asu.edu/~skadam6/) <br>
