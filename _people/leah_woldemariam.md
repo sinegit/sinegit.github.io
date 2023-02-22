@@ -2,7 +2,7 @@
 name: Leah Woldemariam
 title: Leah Woldemariam
 position: gradstudent
-avatar: 
+avatar:
 permalink: /research/people/leah_woldemariam/
 joined: 2022
 ---
@@ -15,16 +15,18 @@ joined: 2022
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `lsw85@cornell.edu`<br>
+<i class="fa fa-envelope-o"></i> `lsw85<at>cornell<dot>.edu`<br>
 <i class="fa fa-building"></i> Bloomberg Center 2nd Floor, Cornell Tech <br>
 <i class="fa fa-google"></i> [google scholar](https://scholar.google.com/citations?user=<//TODO>&hl=en) <br>
+
 <!-- <i class="fa fa-bar-chart"></i> [Personal Website]()  <br> -->
-<i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/<//TODO>)  <br>
- 
+
+<i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/<//TODO>) <br>
 
 <hr>
 
 ### About Me
 
 Leah is a Ph.D. student in Electrical engineering at Cornell University.
+
 <hr>

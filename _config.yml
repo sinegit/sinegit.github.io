@@ -1,26 +1,25 @@
 # Basic
-name:               "SINE Lab"
-title:              "Signal Information Network and Energy Laboratory at Cornell Tech"
-description:        "This is a page for the SINE lab in New York City. We are a lab focusing on research at the intersection of signal processing, network science and energy systems."
-logo:               images/logo/logo.png
+name: "SINE Lab"
+title: "Signal Information Network and Energy Laboratory at Cornell Tech"
+description: "This is a page for the SINE lab in New York City. We are a lab focusing on research at the intersection of signal processing, network science and energy systems."
+logo: images/logo/logo.png
 
 links:
-  email: as337@cornell.edu
+  email: as337<at>cornell<dot>.edu
   google-scholar: Anna Scaglione
   github: sinegit
 
-
 # URL
-url: https://sinelab.tech.cornell.edu               
-baseurl:            
+url: https://sinelab.tech.cornell.edu
+baseurl:
 #baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title.html
 
 # Markdown
-markdown:           kramdown
+markdown: kramdown
 
 # Highlighter
-highlighter:        rouge
+highlighter: rouge
 
 plugins:
   - jekyll/scholar
@@ -44,13 +43,27 @@ scholar:
     #- markdown
 
   group_by: type
-  
-  type_order: [book, incollection, ieeeproceedings, magazine, article, inproceedings, patent]
-  type_names: { magazine: Magazine Articles, patent: US Patents, ieeeproceedings: IEEE Proceedings Articles }
-  
+
+  type_order:
+    [
+      book,
+      incollection,
+      ieeeproceedings,
+      magazine,
+      article,
+      inproceedings,
+      patent,
+    ]
+  type_names:
+    {
+      magazine: Magazine Articles,
+      patent: US Patents,
+      ieeeproceedings: IEEE Proceedings Articles,
+    }
+
   sort_by: [year, month]
   order: [descending, ascending]
-  
+
   details_dir: publication
   details_layout: noDetailsPage.html #bibtex.html # Use bibtex.html layout to generate details pages for bibtex entries. Use other non-existing names otherwise.
   details_link: Details
@@ -60,63 +73,58 @@ scholar:
 
   # Navigation
 nav:
-  - name:           "home"
-    href:           "/"
-  - name:           "anna scaglione"
-    href:           "/anna-scaglione"
-  - name:           "research"
-    href:           "/research"
+  - name: "home"
+    href: "/"
+  - name: "anna scaglione"
+    href: "/anna-scaglione"
+  - name: "research"
+    href: "/research"
     sublinks:
-      - name:           "research"
-        href:           "/research"
-      - name:           "separator"
-      - name:           "publications"
-        href:           "/research/publication"
-      - name:           "people"
-        href:           "/research/people"
-  - name:           "teaching"
-    href:           "/teaching"
-  - name:           "photos"
-    href:           "/photos"
-  - name:           "contact"
-    href:           "/contact"
+      - name: "research"
+        href: "/research"
+      - name: "separator"
+      - name: "publications"
+        href: "/research/publication"
+      - name: "people"
+        href: "/research/people"
+  - name: "teaching"
+    href: "/teaching"
+  - name: "photos"
+    href: "/photos"
+  - name: "contact"
+    href: "/contact"
 
 # Sass
 sass:
-  style:            :compressed
+  style: :compressed
 
 # Scopes
 defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
+  - scope:
+      path: ""
+      type: "pages"
     values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
     values:
-      layout:       "post"
-  -
-    scope:
-      path:         ""
-      type:         "people"
+      layout: "post"
+  - scope:
+      path: ""
+      type: "people"
     values:
-      layout:       "profile"
-  -
-    scope:
-      path:         ""
-      type:         "photos"
+      layout: "profile"
+  - scope:
+      path: ""
+      type: "photos"
     values:
-      layout:       "photo_set"
-  -
-    scope:
-      path:         ""
-      type:         "research"
+      layout: "photo_set"
+  - scope:
+      path: ""
+      type: "research"
     values:
-      layout:       "research"
+      layout: "research"
 
 collections:
   people:
