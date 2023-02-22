@@ -15,7 +15,7 @@ joined: 2015
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>`rramakr6<at>asu<dot>.edu`<br>
+<i class="fa fa-envelope-o"></i>`rramakr6<at>asu<dot>edu`<br>
 <i class="fa fa-building"></i> KTH Royal Institute of Technology <br>
 <i class="fa fa-google"></i> [google scholar](https://scholar.google.com/citations?user=8Dom1fMAAAAJ&hl=en) <br>
 

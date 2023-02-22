@@ -15,7 +15,7 @@ joined: 2017 b
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i> `nr337<at>cornell<dot>.edu`<br>
+<i class="fa fa-envelope-o"></i> `nr337<at>cornell<dot>edu`<br>
 <i class="fa fa-building"></i> Bloomberg Center 2nd Floor, Cornell Tech <br>
 <i class="fa fa-google"></i> [google scholar](https://scholar.google.com/citations?user=Ka5q7nIAAAAJ&hl=en) <br>
 <i class="fa fa-bar-chart"></i> [Personal Website](https://nikhil-ravi.github.io/) <br>

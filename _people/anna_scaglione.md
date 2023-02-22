@@ -15,7 +15,7 @@ permalink: /research/people/anna_scaglione/
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i> `as337<at>cornell<dot>.edu`<br>
+<i class="fa fa-envelope-o"></i> `as337<at>cornell<dot>edu`<br>
 <i class="fa fa-building"></i> Bloomberg Center 2nd Floor, Cornell Tech <br>
 <i class="fa fa-google"></i> [google scholar](https://scholar.google.com/citations?user=Z43BgdEAAAAJ&hl=en) <br>
 
