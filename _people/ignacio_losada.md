@@ -27,6 +27,6 @@ joined: 2018
 
 ### About Me
 
-Ignacio Losada Carreno is a Ph.D. student in Electrical Engineering at ASU since August 2018. Prior to joining ASU, Ignacio obtained a B.S. in Industrial Engineering and M.S. in Mechanical Engineering from the University of Oviedo, Spain and Northern Arizona University, respectively. During his master’s studies, Ignacio worked at the National Renewable Energy Laboratory where he studied the impacts of climate change on wind and solar electricity generation. His research interests include modelling and simulation of large-scale interdependent energy systems, renewable energy resources and big data analytics.
+Ignacio Losada Carreno is a Ph.D. student in Electrical and Computer Engineering at Cornell University and a member of the SINE lab since August 2018. Ignacio obtained a B.S. in Industrial Engineering from the University of Oviedo, Spain and a M.S. in Mechanical Engineering and M.S. in Electrical and Computer Engineering from Northern Arizona University and Cornell University, respectively. Ignacio has worked and collaborated with different national labs including the National Renewable Energy (NREL), Los Alamos National Lab (LANL) and Lawrence Berkeley National Lab (LBNL). His research interests lie in the area of modeling, optimization and control of complex networked systems, including power, gas and cyber systems as well as in commodity markets.
 
 <hr>
