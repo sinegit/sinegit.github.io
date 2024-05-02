@@ -27,6 +27,6 @@ joined: 2022
 
 ### About Me
 
-Leah is a Ph.D. student in Electrical engineering at Cornell University.
+Leah is a Ph.D. student in Electrical and Computer Engineering at Cornell University.
 
 <hr>
