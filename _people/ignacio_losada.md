@@ -1,7 +1,7 @@
 ---
 name: Ignacio Losada Carreno
 title: Ignacio Losada Carreno
-position: gradstudent
+position: alumni
 avatar: ignacio_losada.png
 permalink: /research/people/ignacio_losada/
 joined: 2018

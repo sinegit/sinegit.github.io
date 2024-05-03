@@ -1,7 +1,7 @@
 ---
 name: Nurullah Karakoc
 title: Nurullah Karakoc
-position: gradstudent
+position: alumni
 avatar: nurullah_karakoc.jpg
 permalink: /research/people/nurullah_karakoc/
 joined: 2017 a

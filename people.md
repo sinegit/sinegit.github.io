@@ -58,6 +58,8 @@ permalink: /research/people/
 
 | Who are they | What did they do |When were they here | Where they went |
 | :------------- |:------------- |:------------------| :-----------|
+| [Ignacio Losada](/research/people/ignacio_losada) | Power Systems | PhD (2018-2023) | Joined DV Trading as an Quantitative Researcher in December 2023. |
+| [Nurullah Karakoc](/research/people/nurullah_karakoc) | Communications | PhD (2017-2023) | Joined Nokia as a RAN Algorithm Design and Simulation Engineer in January 2023. |
 | [Rojin Zandi](/research/people/rojin_zandi) | Power Systems | PhD (2021-2022) | Graduated in 2022. |
 | [Sachin Kadam](/research/people/sachin_kadam) | Differential Privacy, Cybersecurity | Postdoc (2020-2021) | Joined Sungkyunkwan University as a Postdoctoral scholar in March 2022 |
 | Shammya Saha | Power Systems | PhD (2016-2021) | Joined Electric Power Research Institute (EPRI) as Scientist II in July 2021 |
