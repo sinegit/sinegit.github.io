@@ -4,7 +4,7 @@ title: Hang Liu
 position: postdoc
 avatar: 
 permalink: /research/people/hang_liu/
-joined: 2021
+joined: 2023
 ---
 
 {% if page.avatar %}
@@ -15,13 +15,13 @@ joined: 2021
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i> `tw385<at>cornell<dot>edu`<br>
+<i class="fa fa-envelope-o"></i> `hl2382<at>cornell<dot>edu`<br>
 <i class="fa fa-building"></i> Bloomberg Center 2nd Floor, Cornell Tech <br>
-<i class="fa fa-google"></i> [google scholar](https://scholar.google.com/citations?user=zojmP_oAAAAJ&hl=en) <br>
+<i class="fa fa-google"></i> [google scholar](https://scholar.google.com/citations?user=n1tKLQcAAAAJ&hl=en) <br>
 
 <!-- <i class="fa fa-bar-chart"></i> [Personal Website]()  <br> -->
 
-<i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/tong-wu-a20310139) <br>
+<i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/hang-liu-77a9a9b3/) <br>
 
 <hr>
 
