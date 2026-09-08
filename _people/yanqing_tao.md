@@ -2,7 +2,7 @@
 name: Yanqing Tao
 title: Yanqing Tao
 position: gradstudent
-avatar:
+avatar: yanqing_tao.jpg
 permalink: /research/people/yanqing_tao/
 joined: 2025
 ---
