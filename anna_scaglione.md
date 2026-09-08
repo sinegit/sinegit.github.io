@@ -52,12 +52,13 @@ Her research has been sponsored by NSF, DoE, ONR, ARO, ARPA-E and industry. She 
 
 ### Professional service
 
-- IEEE Conference Committee, 2021-present.
-- IEEE Publication Services and Products Board Committee, 2021-present.
-- IEEE Communications Society Awards Board, 2021-present.
+- IEEE AI Coalition Committee, 2026-present.
+- IEEE Conference Committee, 2021-2025.
+- IEEE Publication Services and Products Board Committee, 2021-2025.
+- IEEE Communications Society Awards Board, 2021-2024.
 - Deputy Editor-in-Chief, IEEE Transactions on Control of Network Systems, 2018-2023 (Associate Editor 2016-2017, Senior Editor 2018-2020).
 - Editor-in-Chief, IEEE Signal Processing Letters, 2012-2013.
-- Board of Governors, IEEE Signal Processing Society, 2012-2014; SPS Awards Board, 2015-2018.
+- Board of Governors, IEEE Signal Processing Society, 2012-2014 and 2025-2027; SPS Awards Board, 2015-2018.
 - Area Editor (2010-2011) and Associate Editor (2008-2010), IEEE Transactions on Signal Processing; Associate Editor, IEEE Transactions on Wireless Communications, 2002-2005.
 - General Co-Chair, IEEE SPAWC 2005; Technical Co-Chair, DCOSS 2010, IEEE SmartGridComm 2012, IEEE GlobalSIP 2013.
 - Guest editor of special issues in IEEE Signal Processing Magazine, IEEE JSAC, IEEE JSTSP and IEEE Communications Magazine.
