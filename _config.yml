@@ -52,11 +52,13 @@ scholar:
       magazine,
       article,
       inproceedings,
+      preprint,
       patent,
     ]
   type_names:
     {
       magazine: Magazine Articles,
+      preprint: Preprints,
       patent: US Patents,
       ieeeproceedings: IEEE Proceedings Articles,
     }
