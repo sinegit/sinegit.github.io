@@ -2,7 +2,7 @@
 name: Chenyue Zhang
 title: Chenyue Zhang
 position: postdoc
-avatar:
+avatar: chenyue_zhang.jpg
 permalink: /research/people/chenyue_zhang/
 joined: 2025
 ---
