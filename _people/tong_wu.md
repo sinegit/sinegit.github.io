@@ -1,7 +1,7 @@
 ---
 name: Tong Wu
 title: Tong Wu
-position: postdoc
+position: alumni
 avatar: tong_wu.jpg
 permalink: /research/people/tong_wu/
 joined: 2021
@@ -27,6 +27,6 @@ joined: 2021
 
 ### About Me
 
-Tong Wu received his Ph.D. degree in the Department of Information Engineering at the Chinese University of Hong Kong, Hong Kong, in 2021. Since September 2021, he has been a Postdoctoral Associate at Cornell University in New York. His research interests include convex optimization in power systems.
+Tong Wu received his Ph.D. from the Department of Information Engineering at the Chinese University of Hong Kong in 2021 and was a Postdoctoral Associate in the SINE Lab from 2021 to 2024, working on graph learning and optimization for power systems. He is now an Assistant Professor at the University of Central Florida and a core member of the [GridMind](https://gridmind.ece.cornell.edu/) team.
 
 <hr>

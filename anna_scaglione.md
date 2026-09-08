@@ -2,18 +2,63 @@
 title: Anna Scaglione
 permalink: /anna-scaglione/
 ---
-### Professional Career
-Anna Scaglione is a Professor in electrical and computer engineering at Cornell University and Cornell Tech. Prior to this, she was a Professor in the School of Electrical Computer and Energy Engineering at Arizona State University (ASU) from 2014 to 2021. Prior to ASU, she was a Professor of electrical engineering  from 2010 to 2014 and Associate Professor from 2008-2010 at the University of California at Davis. Before joining UC Davis, Anna Scaglione was Assistant Professor (2001-2006) and then tenured Associate Professor at Cornell from 2006 to 2008. Prior to joining Cornell, she was an Assistant Professor at the University of New Mexico from 2000-2001. In 2006, she was visiting professor at EPFL, Lausanne, Switzerland, and in 2013 at Stanford University.
+
+<img width="220" style="float:right; margin:0 0 15px 25px" src="{{site.baseurl}}/images/people/anna_scaglione.jpg" data-action="zoom">
+
+Anna Scaglione is the Stephen M. Ross/Related Companies Professor of Electrical and Computer Engineering at Cornell Tech, Cornell University, and Program Director of the Urban Tech program. She directs the [SINE Lab](/research).
+
+<i class="fa fa-envelope-o"></i> `as337<at>cornell<dot>edu` &nbsp;
+<i class="fa fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=Z43BgdEAAAAJ&hl=en) &nbsp;
+<i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/anna-scaglione-9a0b5a2) &nbsp;
+<i class="fa fa-github"></i> [GitHub](https://github.com/sinegit)
+
+### Research
+
+Her work is in statistical signal processing and machine learning, applied to electric power systems, communication networks and network science. The common thread is learning and inference on networked systems, with an emphasis on methods that utilities and operators can actually use. Current projects:
+
+- **Graph learning for the power grid.** Models that transfer across grid topologies without retraining, and certify when their output can be trusted. This work is the basis of [GridMind](https://gridmind.ece.cornell.edu/), a grid foundation model for monitoring and control.
+- **Differential privacy for grid data.** Releasing synthetic grid measurements and power flow solutions with formal privacy guarantees, so that utilities can share data for machine learning (DoE GENESIS program).
+- **AI data centers as grid loads.** Modeling the power demand of AI computing, its flexibility, and the effect of cyber attacks on data center power (DoE, with Lawrence Livermore National Laboratory).
+- **Cyber-physical security of distributed energy resources.** Attack detection and mitigation for grid-connected inverters (DoE CESER, with Lawrence Berkeley National Laboratory).
+- **Distributed and federated learning.** Multi-agent optimization, its robustness to adversarial agents, and privacy.
+
+Her research has been sponsored by NSF, DoE, ONR, ARO, ARPA-E and industry. She is an IEEE Fellow and a co-inventor on several U.S. patents.
+
+### Career
+
+- 2021-present: Professor, Electrical and Computer Engineering, Cornell Tech, Cornell University. Stephen M. Ross/Related Companies Professor.
+- 2015-2021: Professor, School of Electrical, Computer and Energy Engineering, Arizona State University (now adjunct faculty).
+- 2008-2014: Associate Professor, then Professor (2010), Electrical and Computer Engineering, University of California, Davis.
+- 2001-2008: Assistant Professor, then Associate Professor with tenure (2006), Electrical and Computer Engineering, Cornell University.
+- 2000-2001: Assistant Professor, Electrical and Computer Engineering, University of New Mexico.
+- Visiting positions: EPFL (2006), NYU Center for Neuroscience and Courant Institute (2007), Stanford University (2013-2014).
 
 ### Education
-Professor Anna Scaglione received her “Laurea” and Ph.D. degrees from the University of Rome “La Sapienza”, Rome, Italy in 1995 and 1999 respectively. She was a Postdoctoral Scholar at the University of Minnesota in 2000.
 
-### Scholarly achievements
+- Ph.D., University of Rome "La Sapienza", 1999 (advisor: S. Barbarossa).
+- Laurea (M.Sc.), University of Rome "La Sapienza", 1995, magna cum laude.
+- Postdoctoral researcher, University of Minnesota, 1999-2000 (with G. B. Giannakis).
 
-Scaglione was elected an IEEE fellow in 2011, and was so honored by both the Signal Processing and the Communication Societies. She is the first author of the paper that received the 2000 IEEE Signal Processing Transactions Best Paper Award is co-recipient of the 2013 IEEE Donald G. Fink Prize Paper Award for the best review paper in that year across all IEEE publications.
-Her research with her students was also honored with the 2013 IEEE Signal Processing Society Young Author Best Paper Award (Lin Li), and several conferences best papers awards. She was also a recipient of the NSF CAREER grant in 2002 and of the Outstanding mid-career faculty in the college of Engineering at UC Davis.
+### Awards
 
-A co-holder of eight granted U.S. patents, Scaglione is the author of hundreds of publications with collaborators and many of her pupils. Since 2001, Scaglione has been a frequent keynote or plenary speaker. She is currently one of the IEEE Signal Processing Society Distinguished Lecturers for 2019-2020.
+- IEEE Fellow (2011), Signal Processing and Communications Societies.
+- 2020 Technical Achievement Award, IEEE Communications Society Technical Committee on Smart Grid Communications.
+- IEEE Signal Processing Society Distinguished Lecturer, 2019-2020.
+- 2013 IEEE Donald G. Fink Prize Paper Award, best review paper across all IEEE publications.
+- 2013 Outstanding Mid-Career Faculty Award, College of Engineering, UC Davis.
+- 2002 NSF CAREER Award.
+- 2000 IEEE Signal Processing Society Best Paper Award (IEEE Transactions on Signal Processing).
+- Best paper awards with students: 2025 ICASSP Best Student Paper (Chenyue Zhang), 2020 HICSS best paper (Kari Hreinsson), 2018 ICASSP Best Student Paper (Hoi-To Wai), 2014 IEEE SmartGridComm Best Student Paper (Lorenzo Ferrari), 2013 IEEE SPS Young Author Best Paper Award (Lin Li), 2005 MILCOM Ellersick Best Paper Award.
 
-### Professional Service
-She is currently serving as Deputy EiC for the IEEE Transactions on Control of Networked Systems, where she was Associate Editor 2016-2017 and then Senior Editor 2018-2019. She was Editor-in-Chief from 2012-2013 of the IEEE Signal Processing Letters, and served as associate editor for the IEEE Transactions on Wireless Communications from 2002-2005. From 2008-2011, she served on the editorial board of the IEEE Transactions on Signal Processing from 2008, where she was area editor in 2010-2011. She was General Chair of the SPAWC 2005 workshop and member of Signal Processing for Communication Committee from 2004 to 2009. She has been an IEEE SmartGridComm Conference steering committee from 2010 to 2013. She has also served in a number of IEEE conference technical committees and as Technical Chair for DCOSS 2010, SmartgridComm 2012 and GlobalSIP 2013, as well as Guest Editor for several special issues of IEEE journals and magazines. She was on the board of governors of the IEEE Signal Processing Society during 2011-2014 and was a member of the SPS Awards Board in 2016-2017.
+### Professional service
+
+- IEEE Conference Committee, 2021-present.
+- IEEE Publication Services and Products Board Committee, 2021-present.
+- IEEE Communications Society Awards Board, 2021-present.
+- Deputy Editor-in-Chief, IEEE Transactions on Control of Network Systems, 2018-2023 (Associate Editor 2016-2017, Senior Editor 2018-2020).
+- Editor-in-Chief, IEEE Signal Processing Letters, 2012-2013.
+- Board of Governors, IEEE Signal Processing Society, 2012-2014; SPS Awards Board, 2015-2018.
+- Area Editor (2010-2011) and Associate Editor (2008-2010), IEEE Transactions on Signal Processing; Associate Editor, IEEE Transactions on Wireless Communications, 2002-2005.
+- General Co-Chair, IEEE SPAWC 2005; Technical Co-Chair, DCOSS 2010, IEEE SmartGridComm 2012, IEEE GlobalSIP 2013.
+- Guest editor of special issues in IEEE Signal Processing Magazine, IEEE JSAC, IEEE JSTSP and IEEE Communications Magazine.
+- Co-author, with Christina Fragouli, of the children's book "Information in Small Bits" for the IEEE Information Theory Society, created for the Shannon centennial.

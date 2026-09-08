@@ -1,7 +1,7 @@
 # Basic
 name: "SINE Lab"
 title: "Signal Information Network and Energy Laboratory at Cornell Tech"
-description: "This is a page for the SINE lab in New York City. We are a lab focusing on research at the intersection of signal processing, network science and energy systems."
+description: "This is a page for the SINE lab in New York City. We are a lab focusing on research at the intersection of signal processing, machine learning, network science and energy systems."
 logo: images/logo/logo.png
 
 links:

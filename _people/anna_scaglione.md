@@ -18,15 +18,12 @@ permalink: /research/people/anna_scaglione/
 <i class="fa fa-envelope-o"></i> `as337<at>cornell<dot>edu`<br>
 <i class="fa fa-building"></i> Bloomberg Center 2nd Floor, Cornell Tech <br>
 <i class="fa fa-google"></i> [google scholar](https://scholar.google.com/citations?user=Z43BgdEAAAAJ&hl=en) <br>
-
-<!-- <i class="fa fa-bar-chart"></i> [Personal Website](https://nikhil-ravi.github.io/)  <br> -->
-
 <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/anna-scaglione-9a0b5a2) <br>
 
 <hr>
 
 ### About Me
 
-Anna Scaglione is a Professor in electrical and computer engineering at Cornell University and Cornell Tech. Prior to this, she was a Professor in the School of Electrical Computer and Energy Engineering at Arizona State University (ASU) from 2014 to 2021. Prior to ASU, she was a Professor of electrical engineering from 2010 to 2014 and Associate Professor from 2008-2010 at the University of California at Davis. Before joining UC Davis, Anna Scaglione was Assistant Professor (2001-2006) and then tenured Associate Professor at Cornell from 2006 to 2008. Prior to joining Cornell, she was an Assistant Professor at the University of New Mexico from 2000-2001. In 2006, she was visiting professor at EPFL, Lausanne, Switzerland, and in 2013 at Stanford University.
+Anna Scaglione is the Stephen M. Ross/Related Companies Professor of Electrical and Computer Engineering at Cornell Tech, Cornell University, and Program Director of the Urban Tech program. She was previously Professor at Arizona State University (2015-2021), UC Davis (2008-2014), Cornell University (2001-2008) and the University of New Mexico (2000-2001). She is an IEEE Fellow. Her research is in statistical signal processing and machine learning for power systems, communication networks and network science. Full bio [here](/anna-scaglione/).
 
 <hr>

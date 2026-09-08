@@ -1,7 +1,7 @@
 ---
 name: Hang Liu
 title: Hang Liu
-position: postdoc
+position: alumni
 avatar: 
 permalink: /research/people/hang_liu/
 joined: 2023
@@ -27,6 +27,6 @@ joined: 2023
 
 ### About Me
 
-Hang Liu is a Postdoctoral scholar. 
+Hang Liu was a postdoctoral scholar in the SINE Lab from 2023 to 2025, working on machine learning, signal processing and communications, including differential privacy for grid data and federated learning. He is now an Assistant Professor at the University of Macau.
 
 <hr>

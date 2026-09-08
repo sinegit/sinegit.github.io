@@ -1,10 +1,10 @@
 ---
 name: Nikhil Ravi
 title: Nikhil Ravi
-position: gradstudent
+position: alumni
 avatar: nikhil_ravi.jpg
 permalink: /research/people/nikhil_ravi/
-joined: 2017 b
+joined: 2017
 ---
 
 {% if page.avatar %}
@@ -25,6 +25,6 @@ joined: 2017 b
 
 ### About Me
 
-Nikhil Ravi is a PhD student at Cornell University's SINE Lab. He received his Masters in Electrical Engineering from Arizona State University in 2021 and Bachelors in Electronics and Communication Engineering from PES Institute of Technology, Bangalore, India in 2017. His research interests lie in Decentralized Adversarial Optimization and Differential Privacy.
+Nikhil Ravi received his Ph.D. from Cornell University in 2024 with the thesis "Enhancing Networked Systems: A Comprehensive Approach to Robust and Privacy-Preserving Optimization Algorithms". He received his Masters in Electrical Engineering from Arizona State University in 2021 and Bachelors in Electronics and Communication Engineering from PES Institute of Technology, Bangalore, India in 2017. He now works in energy trading.
 
 <hr>

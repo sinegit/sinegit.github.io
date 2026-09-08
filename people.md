@@ -58,6 +58,10 @@ permalink: /research/people/
 
 | Who are they | What did they do |When were they here | Where they went |
 | :------------- |:------------- |:------------------| :-----------|
+| Jiazuo Hou | Power Systems | Postdoc (2024-2025) | Joined the faculty as Assistant Professor. |
+| [Hang Liu](/research/people/hang_liu) | Machine Learning, Signal Processing | Postdoc (2023-2025) | Joined the University of Macau as Assistant Professor. |
+| [Tong Wu](/research/people/tong_wu) | Machine Learning, Power Systems | Postdoc (2021-2024) | Joined the University of Central Florida as Assistant Professor. |
+| [Nikhil Ravi](/research/people/nikhil_ravi) | Signal Processing, Differential Privacy | PhD (2017-2024) | Joined the energy trading industry. |
 | [Ignacio Losada](/research/people/ignacio_losada) | Power Systems | PhD (2018-2023) | Joined DV Trading as an Quantitative Researcher in December 2023. |
 | [Nurullah Karakoc](/research/people/nurullah_karakoc) | Communications | PhD (2017-2023) | Joined Nokia as a RAN Algorithm Design and Simulation Engineer in January 2023. |
 | [Rojin Zandi](/research/people/rojin_zandi) | Power Systems | PhD (2021-2022) | Graduated in 2022. |

@@ -17,16 +17,12 @@ joined: 2022
 
 <i class="fa fa-envelope-o"></i> `lsw85<at>cornell<dot>edu`<br>
 <i class="fa fa-building"></i> Bloomberg Center 2nd Floor, Cornell Tech <br>
-<i class="fa fa-google"></i> [google scholar](https://scholar.google.com/citations?user=<//TODO>&hl=en) <br>
-
-<!-- <i class="fa fa-bar-chart"></i> [Personal Website]()  <br> -->
-
-<i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/<//TODO>) <br>
+<i class="fa fa-google"></i> [publications](https://scholar.google.com/scholar?q=Leah+Woldemariam) <br>
 
 <hr>
 
 ### About Me
 
-Leah is a Ph.D. student in Electrical and Computer Engineering at Cornell University.
+Leah Woldemariam is a Ph.D. student in Electrical and Computer Engineering at Cornell University, working on signal processing and machine learning.
 
 <hr>
