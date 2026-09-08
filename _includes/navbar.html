@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class='navbar-brand page-scroll' href='/'>
-              <span style='font-family:"Open Sans" font-weight:300'>{{ site.name }}</span>
+              <span style='font-family:"Open Sans" font-weight:300'>{{ site.name }}</span><span class="brand-at">@</span><img class="brand-tech" src="/images/logo/cornell-tech.png" alt="Cornell Tech" title="Cornell Tech" />
               </a>
             </div>
 
@@ -65,6 +65,21 @@
     font-style: italic;
     font-size: 26px !important;
     color: #5fcf80 !important;
+}
+#navigation .navbar-brand .brand-at {
+    margin: 0 .2em 0 .3em;
+    font-style: normal;
+    font-weight: 400;
+    color: #888;
+}
+#navigation .navbar-brand .brand-tech {
+    display: inline-block;
+    height: 1.6em;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+    vertical-align: -0.42em;
 }
 #navigation .navbar-brand .site-logo {
     float: left;
