@@ -2,7 +2,7 @@
 name: Yating Zhou
 title: Yating Zhou
 position: postdoc
-avatar:
+avatar: yating_zhou.jpg
 permalink: /research/people/yating_zhou/
 joined: 2026
 ---
