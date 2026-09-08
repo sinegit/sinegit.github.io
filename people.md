@@ -66,7 +66,7 @@ permalink: /research/people/
 | [Nurullah Karakoc](/research/people/nurullah_karakoc) | Communications | PhD (2017-2023) | Joined Nokia as a RAN Algorithm Design and Simulation Engineer in January 2023. |
 | [Sachin Kadam](/research/people/sachin_kadam) | Differential Privacy, Cybersecurity | Postdoc (2020-2021) | Joined Sungkyunkwan University as a Postdoctoral scholar in March 2022 |
 | Shammya Saha | Power Systems | PhD (2016-2021) | Joined Electric Power Research Institute (EPRI) as Scientist II in July 2021 |
-| [Raksha Ramakrishna](/research/people/raksha_ramakrishna) | Signal Processing, Power Systems | PhD (2015-2020) | Joined KTH Royal Institute of Technology as Postdoctoral Researcher in September 2020 |
+| [Raksha Ramakrishna](/research/people/raksha_ramakrishna) | Signal Processing, Power Systems | PhD (2015-2020) | Joined KTH Royal Institute of Technology as Postdoctoral Researcher in September 2020; now at Ericsson |
 | Kári Hreinsson | Power Systems | PhD (2015-2020) | Joined Veitur Electric Distribution, Iceland, as Research and Development Lead in August 2020 |
 | Teklamariam Tesfay | Power Systems, Cybersecurity | Postdoc (2017-2018) | Joined NASA Jet Propulsion Laboratory as Cybersecurity Engineer |
 | Eran Schweitzer | Power Systems | PhD (2015-2018) | Joined STEAG Energy Services GmbH, Essen, Germany, as Project Engineer |
