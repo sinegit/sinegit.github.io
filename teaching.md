@@ -30,6 +30,10 @@ permalink: /teaching/
 .deck:hover .cap{color:#AA162C}
 .past{font-size:.82rem;line-height:1.7;color:#454545}
 .past b{color:#222}
+.talk{padding-top:0;overflow:hidden}
+.talkshot{width:calc(100% + 2.8rem);margin:0 -1.4rem 1.1rem;display:block;border:0;border-radius:0;
+          transition:transform .3s ease}
+.talk:hover .talkshot{transform:scale(1.02)}
 .titleshot{width:100%;max-width:300px;margin:.2rem 0 1rem;border:1px solid #e2e2e2;border-radius:4px;cursor:zoom-in}
 @media (max-width:40em){.grid{grid-template-columns:repeat(auto-fill,minmax(112px,1fr))}}
 </style>
@@ -166,6 +170,21 @@ students.</p>
   </a>
     </div>
   </details>
+</div>
+
+<h2>Beyond the classroom</h2>
+
+<div class="course talk">
+  <a href="/assets/teaching/talks/pint-of-science-2026.pdf">
+    <img class="talkshot" src="/images/teaching/pint-of-science.jpg"
+         alt="The World's Most Important Machine Has Trust and Decision Issues — Pint of Science 2026" loading="lazy">
+  </a>
+  <h3>The World&#39;s Most Important Machine Has Trust and Decision Issues</h3>
+  <div class="sub">Pint of Science &nbsp;·&nbsp; New York City, May 2026</div>
+  <p>A talk for a general audience — given in a bar, as the festival intends — on why the grid is the largest machine ever
+  built, and why keeping it running is a continent-scale exercise in trust and split-second decisions. Billed as
+  <i>&ldquo;a 3,000-mile-wide panic attack keeping your lights on.&rdquo;</i></p>
+  <div class="meta"><a href="/assets/teaching/talks/pint-of-science-2026.pdf">Slides (PDF, 27 pages)</a></div>
 </div>
 
 <details>
