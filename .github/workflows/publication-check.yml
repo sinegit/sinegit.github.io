@@ -1,0 +1,50 @@
+name: Weekly publication check
+
+on:
+  schedule:
+    - cron: '0 13 * * 1'      # Mondays 13:00 UTC (09:00 New York, 08:00 in winter)
+  workflow_dispatch:           # and on demand from the Actions tab
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Look for new publications
+        id: check
+        run: |
+          python3 scripts/check_publications.py
+          if [ -s new_entries.bib ]; then
+            echo "found=yes" >> "$GITHUB_OUTPUT"
+            echo "n=$(grep -c '^@' new_entries.bib)" >> "$GITHUB_OUTPUT"
+          else
+            echo "found=no" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Open a pull request
+        if: steps.check.outputs.found == 'yes'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BRANCH="pubs/$(date +%Y-%m-%d)"
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          printf '\n' >> _bibliography/publications.bib
+          cat new_entries.bib >> _bibliography/publications.bib
+          rm -f new_entries.bib
+          git add _bibliography/publications.bib
+          git commit -m "Add ${{ steps.check.outputs.n }} publication(s) found by the weekly check"
+          git push -u origin "$BRANCH"
+          gh pr create --base sources --head "$BRANCH" \
+            --title "${{ steps.check.outputs.n }} new publication(s)" \
+            --body-file report.md
+
+      - name: Nothing new
+        if: steps.check.outputs.found == 'no'
+        run: cat report.md

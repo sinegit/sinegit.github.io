@@ -139,3 +139,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:title/index.html
+
+# Keep tooling out of the built site
+exclude:
+  - scripts/
+  - README.md
+  - Gemfile
+  - Gemfile.lock
