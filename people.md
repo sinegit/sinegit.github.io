@@ -58,7 +58,7 @@ permalink: /research/people/
 
 | Who are they | What did they do |When were they here | Where they went |
 | :------------- |:------------- |:------------------| :-----------|
-| Jiazuo Hou | Power Systems | Postdoc (2024-2025) | Joined the faculty as Assistant Professor. |
+| Jiazuo Hou | Power Systems | Postdoc (2024-2025) | Joined Tongji University as Associate Professor. |
 | [Hang Liu](/research/people/hang_liu) | Machine Learning, Signal Processing | Postdoc (2023-2025) | Joined the University of Macau as Assistant Professor. |
 | [Tong Wu](/research/people/tong_wu) | Machine Learning, Power Systems | Postdoc (2021-2024) | Joined the University of Central Florida as Assistant Professor. |
 | [Nikhil Ravi](/research/people/nikhil_ravi) | Signal Processing, Differential Privacy | PhD (2017-2024) | Joined the energy trading industry. |

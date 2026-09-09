@@ -24,6 +24,6 @@ permalink: /research/people/anna_scaglione/
 
 ### About Me
 
-Anna Scaglione is the Stephen M. Ross/Related Companies Professor of Electrical and Computer Engineering at Cornell Tech, Cornell University, and Program Director of the Urban Tech program. She was previously Professor at Arizona State University (2015-2021), UC Davis (2008-2014), Cornell University (2001-2008) and the University of New Mexico (2000-2001). She is an IEEE Fellow. Her research is in statistical signal processing and machine learning for power systems, communication networks and network science. Full bio [here](/anna-scaglione/).
+Anna Scaglione is the Stephen M. Ross/Related Companies Professor of Electrical and Computer Engineering at Cornell Tech, Cornell University. She was Program Director of the Urban Tech program from 2022 to 2026. She was previously Professor at Arizona State University (2015-2021), UC Davis (2008-2014), Cornell University (2001-2008) and the University of New Mexico (2000-2001). She is an IEEE Fellow. Her research is in statistical signal processing and machine learning for power systems, communication networks and network science. Full bio [here](/anna-scaglione/).
 
 <hr>

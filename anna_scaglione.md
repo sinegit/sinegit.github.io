@@ -5,7 +5,7 @@ permalink: /anna-scaglione/
 
 <img width="220" style="float:right; margin:0 0 15px 25px" src="{{site.baseurl}}/images/people/anna_scaglione.jpg" data-action="zoom">
 
-Anna Scaglione is the Stephen M. Ross/Related Companies Professor of Electrical and Computer Engineering at Cornell Tech, Cornell University, and Program Director of the Urban Tech program. She directs the [SINE Lab](/research).
+Anna Scaglione is the Stephen M. Ross/Related Companies Professor of Electrical and Computer Engineering at Cornell Tech, Cornell University. She was Program Director of the Urban Tech program from 2022 to 2026. She directs the [SINE Lab](/research).
 
 <i class="fa fa-envelope-o"></i> `as337<at>cornell<dot>edu` &nbsp;
 <i class="fa fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=Z43BgdEAAAAJ&hl=en) &nbsp;
@@ -27,6 +27,7 @@ Her research has been sponsored by NSF, DoE, ONR, ARO, ARPA-E and industry. She 
 ### Career
 
 - 2021-present: Professor, Electrical and Computer Engineering, Cornell Tech, Cornell University. Stephen M. Ross/Related Companies Professor.
+- 2022-2026: Program Director, Urban Tech program, Cornell Tech.
 - 2015-2021: Professor, School of Electrical, Computer and Energy Engineering, Arizona State University (now adjunct faculty).
 - 2008-2014: Associate Professor, then Professor (2010), Electrical and Computer Engineering, University of California, Davis.
 - 2001-2008: Assistant Professor, then Associate Professor with tenure (2006), Electrical and Computer Engineering, Cornell University.
