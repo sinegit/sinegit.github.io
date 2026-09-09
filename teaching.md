@@ -56,18 +56,6 @@ students.</p>
 <h2>Currently teaching at Cornell Tech</h2>
 
 <div class="course hasbanner">
-  <img class="banner" src="/images/teaching/ece5235-banner.jpg"
-       alt="Isometric schematic of a power delivery system: generation, transmission, solar, wind, storage and a city"
-       loading="lazy" data-action="zoom">
-  <h3>Sustainable Urban and Energy Delivery Systems</h3>
-  <div class="sub">ECE 5235</div>
-  <p>The operation of the electric power system, from physics and system theory through to markets: power flow and
-  optimal power flow, state estimation, three-phase distribution network modeling, energy markets and locational marginal
-  pricing, flexible demand and demand response, forecasting, and machine learning for grid inference.</p>
-  <div class="meta">Offered 2023, 2024, 2025 &nbsp;·&nbsp; <a href="/assets/teaching/ece5235/ece5235-syllabus.pdf">Syllabus (PDF)</a></div>
-</div>
-
-<div class="course hasbanner">
   <img class="banner" src="/images/teaching/ece5260-banner.jpg"
        alt="A clustered network of nodes and edges with one highlighted hub, beside a sparse adjacency matrix"
        loading="lazy" data-action="zoom">
@@ -183,6 +171,18 @@ students.</p>
   </a>
     </div>
   </details>
+</div>
+
+<div class="course hasbanner">
+  <img class="banner" src="/images/teaching/ece5235-banner.jpg"
+       alt="Isometric schematic of a power delivery system: generation, transmission, solar, wind, storage and a city"
+       loading="lazy" data-action="zoom">
+  <h3>Sustainable Urban and Energy Delivery Systems</h3>
+  <div class="sub">ECE 5235</div>
+  <p>The operation of the electric power system, from physics and system theory through to markets: power flow and
+  optimal power flow, state estimation, three-phase distribution network modeling, energy markets and locational marginal
+  pricing, flexible demand and demand response, forecasting, and machine learning for grid inference.</p>
+  <div class="meta">Offered 2023, 2024, 2025 &nbsp;·&nbsp; <a href="/assets/teaching/ece5235/ece5235-syllabus.pdf">Syllabus (PDF)</a></div>
 </div>
 
 <h2>Beyond the classroom</h2>
