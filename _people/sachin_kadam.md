@@ -2,7 +2,7 @@
 name: Sachin Kadam
 title: Sachin Kadam
 position: alumni
-avatar: sachin_kadam.jpg
+avatar:
 permalink: /research/people/sachin_kadam/
 joined: 2020
 ---

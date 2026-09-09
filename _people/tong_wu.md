@@ -2,7 +2,7 @@
 name: Tong Wu
 title: Tong Wu
 position: alumni
-avatar: tong_wu.jpg
+avatar:
 permalink: /research/people/tong_wu/
 joined: 2021
 ---

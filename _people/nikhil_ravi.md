@@ -2,7 +2,7 @@
 name: Nikhil Ravi
 title: Nikhil Ravi
 position: alumni
-avatar: nikhil_ravi.jpg
+avatar:
 permalink: /research/people/nikhil_ravi/
 joined: 2017
 ---
