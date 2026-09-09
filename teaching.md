@@ -34,6 +34,13 @@ permalink: /teaching/
 .sidebody h3{margin-top:0}
 @media (max-width:34em){.sidecard{flex-direction:column}.sideshot{width:100%;flex:none}}
 .plaincard h3{margin-top:0}
+.toons{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:1rem;margin:1rem 0 .3rem;align-items:end}
+.toons a{display:block;text-decoration:none;color:#555}
+.toons img{width:100%;margin:0;border:1px solid #e2e2e2;border-radius:4px;display:block;
+           transition:transform .16s ease,box-shadow .16s ease,border-color .16s ease}
+.toons a:hover img{transform:translateY(-3px);box-shadow:0 6px 16px rgba(0,0,0,.14);border-color:#AA162C}
+.toons .cap{display:block;font-size:.66rem;margin-top:.35rem;line-height:1.35}
+.toons a:hover .cap{color:#AA162C}
 .past{font-size:.76rem;line-height:1.65;color:#666}
 .past b{color:#222}
 .talk{padding-top:0;overflow:hidden}
@@ -232,6 +239,28 @@ students.</p>
   van der Schaar Lab initiative that encourages women students and early-career researchers towards machine learning
   and AI.</p>
   <div class="meta"><a href="https://www.vanderschaar-lab.com/wecreate-inspiration-session-1/">Session page</a></div>
+</div>
+
+<div class="course plaincard">
+  <h3>Cartoons for <i>IEEE Signal Processing Magazine</i></h3>
+  <div class="sub">Humor column &nbsp;·&nbsp; 2018</div>
+  <p>Three strips drawn for the magazine&#39;s humor page, each a joke that only works if you know the mathematics:
+  a feedback loop whose necklace improves her memory but leaves her looking unstable; two vectors breaking up because one
+  wants to be linearly independent; and a tube of toothpaste promising
+  <i>E[(Ux)(Ux)<sup>T</sup>] = I</i>, with PCA inside.</p>
+  <div class="toons">
+    <a href="/assets/teaching/cartoons/good-feedback-2018.pdf">
+      <img src="/images/teaching/toon-good-feedback.jpg" alt="Good Feedback cartoon" loading="lazy">
+      <span class="cap"><b>Good Feedback</b>&nbsp;· March 2018</span></a>
+    <a href="/assets/teaching/cartoons/independence-2018.pdf">
+      <img src="/images/teaching/toon-independence.jpg" alt="Independence cartoon" loading="lazy">
+      <span class="cap"><b>Independence</b>&nbsp;· May 2018</span></a>
+    <a href="/assets/teaching/cartoons/extreme-whitening-2018.pdf">
+      <img src="/images/teaching/toon-extreme-whitening.jpg" alt="Extreme Whitening cartoon" loading="lazy">
+      <span class="cap"><b>Extreme Whitening</b>&nbsp;· July 2018</span></a>
+  </div>
+  <div class="meta">With Raksha Ramakrishna on <i>Extreme Whitening</i>. Published in IEEE Signal Processing Magazine,
+  vol. 35, 2018.</div>
 </div>
 
 <details>
