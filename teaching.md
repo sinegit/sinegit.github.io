@@ -208,10 +208,10 @@ students.</p>
   <div class="sidebody">
     <h3>Information in Small Bits</h3>
     <div class="sub">Information theory for kids &nbsp;·&nbsp; IEEE Information Theory Society</div>
-    <p>A children&#39;s book that explains information theory through story and pictures, for readers of about eight and up.
-    It began as a joke. Anna drew each story as an 8&times;11 pencil sketch and sent the cartoons to Christina Fragouli,
-    who was serving on the committee choosing narratives to celebrate the Claude Shannon centennial. Christina thought
-    they had value, and wrote the educational explanations that accompany the drawings. The IEEE Information Theory
+    <p>A book that explains information theory through story and pictures. It began as a joke: Anna drew each story as an
+    8&times;11 pencil sketch and sent the cartoons to Christina Fragouli, who was serving on the committee choosing
+    narratives to celebrate the Claude Shannon centennial &mdash; an effort aimed at teenagers. Christina thought the
+    cartoons had value, and wrote the educational explanations that accompany the drawings. The IEEE Information Theory
     Society published the result as a non-profit outreach project.</p>
     <div class="meta">
       <a href="https://www.amazon.com/dp/B07HD64KW4">The book</a> &nbsp;·&nbsp;
