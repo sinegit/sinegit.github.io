@@ -213,6 +213,9 @@ students.</p>
     narratives to celebrate the Claude Shannon centennial &mdash; an effort aimed at teenagers. Christina thought the
     cartoons had value, and wrote the educational explanations that accompany the drawings. The IEEE Information Theory
     Society published the result as a non-profit outreach project.</p>
+    <p>The mathematics under the drawings is exact, and the jokes reward a reader who already knows it: when B steps onto
+    the scale, the weight it reads is the information carried by the letter B in the English alphabet. Catching that takes
+    a fairly mature reader &mdash; the pictures never give it away.</p>
     <div class="meta">
       <a href="https://www.amazon.com/dp/B07HD64KW4">The book</a> &nbsp;·&nbsp;
       <a href="https://www.youtube.com/playlist?list=PLfMzjeGTdcav8saj5RIySjRByViHuxFdI">Animated video series</a>
