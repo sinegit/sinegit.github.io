@@ -53,7 +53,7 @@ Her research has been sponsored by NSF, DoE, ONR, ARO, ARPA-E and industry. She 
 
 ### Professional service
 
-- IEEE AI Coalition Committee, 2026-present.
+- IEEE AI Coalition, 2026-present.
 - IEEE Conference Committee, 2021-2025.
 - IEEE Publication Services and Products Board Committee, 2021-2025.
 - IEEE Communications Society Awards Board, 2021-2024.
