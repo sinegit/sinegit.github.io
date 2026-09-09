@@ -64,7 +64,7 @@ students.</p>
 
 <div class="course hasbanner">
   <img class="banner" src="/images/teaching/ece5260-banner.jpg"
-       alt="A clustered network of glowing nodes and edges beside a sparse adjacency matrix"
+       alt="A clustered network of nodes and edges with one highlighted hub, beside a sparse adjacency matrix"
        loading="lazy" data-action="zoom">
   <h3>Graph-Based Data Science for Networked Systems</h3>
   <div class="sub">ECE 5260 / ORIE 5735</div>
