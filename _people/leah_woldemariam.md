@@ -2,7 +2,7 @@
 name: Leah Woldemariam
 title: Leah Woldemariam
 position: gradstudent
-avatar:
+avatar: leah_woldemariam.jpg
 permalink: /research/people/leah_woldemariam/
 joined: 2022
 ---
