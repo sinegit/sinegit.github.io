@@ -33,6 +33,7 @@ permalink: /teaching/
 .sidebody{flex:1 1 auto;min-width:0}
 .sidebody h3{margin-top:0}
 @media (max-width:34em){.sidecard{flex-direction:column}.sideshot{width:100%;flex:none}}
+.plaincard h3{margin-top:0}
 .past{font-size:.76rem;line-height:1.65;color:#666}
 .past b{color:#222}
 .talk{padding-top:0;overflow:hidden}
@@ -221,6 +222,16 @@ students.</p>
       <a href="https://www.youtube.com/playlist?list=PLfMzjeGTdcav8saj5RIySjRByViHuxFdI">Animated video series</a>
     </div>
   </div>
+</div>
+
+<div class="course plaincard">
+  <h3>WeCREATE Inspiration Session</h3>
+  <div class="sub">van der Schaar Lab &nbsp;·&nbsp; 8 June 2022</div>
+  <p>One of three speakers at the first WeCREATE Inspiration Session, presenting alongside Cheng Zhang (Microsoft
+  Research) and Setareh Maghsudi (University of T&uuml;bingen), hosted by Mihaela van der Schaar. WeCREATE is a
+  van der Schaar Lab initiative that encourages women students and early-career researchers towards machine learning
+  and AI.</p>
+  <div class="meta"><a href="https://www.vanderschaar-lab.com/wecreate-inspiration-session-1/">Session page</a></div>
 </div>
 
 <details>
