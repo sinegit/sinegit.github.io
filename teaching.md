@@ -61,9 +61,9 @@ students.</p>
        loading="lazy" data-action="zoom">
   <h3>Sustainable Urban and Energy Delivery Systems</h3>
   <div class="sub">ECE 5235</div>
-  <p>How energy is generated, delivered and priced, and what it takes to decarbonize the system: power flow and system
-  theory, state estimation, three-phase distribution network modeling, optimal power flow, energy markets and locational
-  marginal pricing, flexible demand and demand response, forecasting, and machine learning for grid inference.</p>
+  <p>The operation of the electric power system, from physics and system theory through to markets: power flow and
+  optimal power flow, state estimation, three-phase distribution network modeling, energy markets and locational marginal
+  pricing, flexible demand and demand response, forecasting, and machine learning for grid inference.</p>
   <div class="meta">Offered 2023, 2024, 2025 &nbsp;·&nbsp; <a href="/assets/teaching/ece5235/ece5235-syllabus.pdf">Syllabus (PDF)</a></div>
 </div>
 
@@ -194,8 +194,8 @@ students.</p>
   </a>
   <h3>The World&#39;s Most Important Machine Has Trust and Decision Issues</h3>
   <div class="sub">Pint of Science &nbsp;·&nbsp; New York City, May 2026</div>
-  <p>A talk for a general audience — given in a bar, as the festival intends — on why the grid is the largest machine ever
-  built, and why keeping it running is a continent-scale exercise in trust and split-second decisions. Billed as
+  <p>A public talk at the Pint of Science festival on the electric grid: why keeping it running is a problem of trust,
+  and of decisions taken continuously across a continent. Anna&#39;s own summary of it &mdash;
   <i>&ldquo;a 3,000-mile-wide panic attack keeping your lights on.&rdquo;</i></p>
   <div class="meta"><a href="/assets/teaching/talks/pint-of-science-2026.pdf">Slides (PDF, 27 pages)</a></div>
 </div>
