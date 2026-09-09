@@ -68,3 +68,5 @@ Her research has been sponsored by NSF, DoE, ONR, ARO, ARPA-E and industry. She 
 - **[*Information in Small Bits*](https://www.amazon.com/dp/B07HD64KW4)** --- a children's book that explains information
 theory through story and pictures, written with Christina Fragouli and sponsored by the IEEE Information Theory Society for
 the Shannon centennial. Anna is the cartoonist: she wrote the story and drew the illustrations.
+The IEEE Information Theory Society has published a
+[video series about the book](https://www.youtube.com/playlist?list=PLfMzjeGTdcav8saj5RIySjRByViHuxFdI).
