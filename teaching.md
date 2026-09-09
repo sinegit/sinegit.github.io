@@ -28,7 +28,12 @@ permalink: /teaching/
 .deck:hover img{transform:translateY(-3px);box-shadow:0 6px 16px rgba(0,0,0,.14);border-color:#AA162C}
 .deck .cap{display:block;font-size:.66rem;line-height:1.35;margin-top:.35rem;color:#555}
 .deck:hover .cap{color:#AA162C}
-.past{font-size:.82rem;line-height:1.7;color:#454545}
+.sidecard{display:flex;gap:1.15rem;align-items:flex-start}
+.sideshot{width:210px;flex:0 0 210px;margin:.15rem 0 0;border:1px solid #e2e2e2;border-radius:4px;display:block}
+.sidebody{flex:1 1 auto;min-width:0}
+.sidebody h3{margin-top:0}
+@media (max-width:34em){.sidecard{flex-direction:column}.sideshot{width:100%;flex:none}}
+.past{font-size:.76rem;line-height:1.65;color:#666}
 .past b{color:#222}
 .talk{padding-top:0;overflow:hidden}
 .hasbanner{padding-top:0;overflow:hidden}
@@ -193,6 +198,24 @@ students.</p>
   built, and why keeping it running is a continent-scale exercise in trust and split-second decisions. Billed as
   <i>&ldquo;a 3,000-mile-wide panic attack keeping your lights on.&rdquo;</i></p>
   <div class="meta"><a href="/assets/teaching/talks/pint-of-science-2026.pdf">Slides (PDF, 27 pages)</a></div>
+</div>
+
+<div class="course sidecard">
+  <a href="https://www.youtube.com/playlist?list=PLfMzjeGTdcav8saj5RIySjRByViHuxFdI">
+    <img class="sideshot" src="/images/teaching/small-bits.jpg"
+         alt="Cartoon characters A and B from the Information in Small Bits animations" loading="lazy">
+  </a>
+  <div class="sidebody">
+    <h3>Information in Small Bits</h3>
+    <div class="sub">Information theory for kids &nbsp;·&nbsp; IEEE Information Theory Society</div>
+    <p>A children&#39;s book that explains information theory through story and pictures, for readers of about eight and up.
+    Written with Christina Fragouli and published by the IEEE Information Theory Society as a non-profit outreach project
+    for the Shannon centennial. Anna is the cartoonist: she wrote the story and drew the illustrations.</p>
+    <div class="meta">
+      <a href="https://www.amazon.com/dp/B07HD64KW4">The book</a> &nbsp;·&nbsp;
+      <a href="https://www.youtube.com/playlist?list=PLfMzjeGTdcav8saj5RIySjRByViHuxFdI">Animated video series</a>
+    </div>
+  </div>
 </div>
 
 <details>
