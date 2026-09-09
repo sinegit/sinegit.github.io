@@ -31,10 +31,13 @@ permalink: /teaching/
 .past{font-size:.82rem;line-height:1.7;color:#454545}
 .past b{color:#222}
 .talk{padding-top:0;overflow:hidden}
+.hasbanner{padding-top:0;overflow:hidden}
+.banner{width:calc(100% + 2.8rem);margin:0 -1.4rem 1.15rem;display:block;border:0;border-radius:0;
+        cursor:zoom-in;transition:transform .3s ease}
+.hasbanner:hover .banner{transform:scale(1.015)}
 .talkshot{width:calc(100% + 2.8rem);margin:0 -1.4rem 1.1rem;display:block;border:0;border-radius:0;
           transition:transform .3s ease}
 .talk:hover .talkshot{transform:scale(1.02)}
-.titleshot{width:100%;max-width:300px;margin:.2rem 0 1rem;border:1px solid #e2e2e2;border-radius:4px;cursor:zoom-in}
 @media (max-width:40em){.grid{grid-template-columns:repeat(auto-fill,minmax(112px,1fr))}}
 </style>
 
@@ -47,17 +50,22 @@ students.</p>
 
 <h2>Currently teaching at Cornell Tech</h2>
 
-<div class="course">
+<div class="course hasbanner">
+  <img class="banner" src="/images/teaching/ece5235-banner.jpg"
+       alt="Isometric schematic of a power delivery system: generation, transmission, solar, wind, storage and a city"
+       loading="lazy" data-action="zoom">
   <h3>Sustainable Urban and Energy Delivery Systems</h3>
   <div class="sub">ECE 5235</div>
   <p>How energy is generated, delivered and priced, and what it takes to decarbonize the system: power flow and system
   theory, state estimation, three-phase distribution network modeling, optimal power flow, energy markets and locational
   marginal pricing, flexible demand and demand response, forecasting, and machine learning for grid inference.</p>
-  <img class="titleshot" src="/images/teaching/ece5235-hero.jpg" alt="ECE 5235 title slide" data-action="zoom" loading="lazy">
   <div class="meta">Offered 2023, 2024, 2025 &nbsp;·&nbsp; <a href="/assets/teaching/ece5235/ece5235-syllabus.pdf">Syllabus (PDF)</a></div>
 </div>
 
-<div class="course">
+<div class="course hasbanner">
+  <img class="banner" src="/images/teaching/ece5260-banner.jpg"
+       alt="A clustered network of glowing nodes and edges beside a sparse adjacency matrix"
+       loading="lazy" data-action="zoom">
   <h3>Graph-Based Data Science for Networked Systems</h3>
   <div class="sub">ECE 5260 / ORIE 5735</div>
   <p>The mathematics of networks and the data science built on it: graph algebra, incidence and Laplacian matrices,
