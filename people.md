@@ -76,18 +76,18 @@ permalink: /research/people/
 | Reinhard Gentz | Communications | PhD (2013-2017) | Joined Data Science and Technology Department, in the Computational Research division at Lawrence Berkeley National Laboratories, USA as a Computer Software Engineer |
 | Xiaoxiao Wu | Signal Processing, Optimization | Postdoc (2014-2015) | Joined Shenzhen University, China as Assistant Professor in 2017 |
 | Masood Parvania | Power Systems | Postdoc (2014-2015) | Joined University of Utah as Assistant Professor in 2015 |
-| Irene Spanou |  | M.S. (2012-2014) | Graduated in March 2014 |
+| Irene Spanou | Signal Processing | M.S. (2012-2014) | Graduated in March 2014 |
 | Mahnoosh Alizadeh | Power Systems | PhD (2009-2014) | Joined the group of Prof. Andrea Goldsmith as a Postdoctoral Scholar in Stanford |
 | Saeed Bagheri | Communications | PhD (2009-2014) | Joined Qualcomm |
-| Georgia Koustandria |  | M.S. (2012-2014) | PhD student at the University of Rome La Sapienza |
+| Georgia Koutsandria | Embedded Systems Security | M.S. (2012-2014) | PhD student at the University of Rome La Sapienza |
 | Xiao Li | Signal Processing, Power Systems | PhD (2009-2013) | Joined the group of Prof. Kannan Ramanchandran as Post-Doctoral Scholar at UC Berkeley |
-| Lin Li | Signal Processing | PhD (2008-2013) | Joined ARL |
+| Lin Li | Signal Processing | PhD (2008-2013) | Joined ARL; now at MIT Lincoln Laboratory |
 | Andrea Rueetschi | Communications | PhD (2007-2013) | Joined ABB |
-| Tsung-Hui Cheng | Signal Processing, Optimization | Postdoc (2011-2012) | Joined National Taiwan University of Science and Technology as Assistant Professor in 2012 |
+| Tsung-Hui Chang | Signal Processing, Optimization | Postdoc (2011-2012) | Joined National Taiwan University of Science and Technology as Assistant Professor in 2012; now at the Chinese University of Hong Kong, Shenzhen |
 | Zhifang Wang | Power Systems | Postdoc (2008-2012) | Joined VSU as Assistant Professor in 2012 |
 | Matthew Sharp | Communications | PhD (2005-2011) | Joined Johns Hopkins University Applied Physics Laboratory |
 | Ramy Tannious | Information Theory | Postdoc (2008-2010) | Joined Aviat Networks in 2011 |
-| Roberto Pagliari | Network science | PhD (2006-2010) | Currently with Applied Communication Sciences |
+| Roberto Pagliari | Network science | PhD (2006-2010) | Joined Applied Communication Sciences; now at J.P. Morgan |
 | Ercan Yildiz | Signal Processing | PhD (2005-2010) | Joined Accenture Technology Labs, now with Google |
 | Shrut Kirti | Communications | PhD (2005-2010) | Joined Ropes & Gray LLP as Technical Advisor |
 | Stephen Lim |  | M.S. (2008-2010) | Graduated in June 2010 |
