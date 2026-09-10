@@ -4,6 +4,18 @@ layout: default
 
 <div class="container">
   <header class="masthead text-center">
+    <picture>
+      <!-- honour a reduced-motion preference with a still frame -->
+      <source srcset="/images/sine-lab-still.png" media="(prefers-reduced-motion: reduce)" />
+      <img
+        src="/images/sine-lab.gif"
+        alt="SINE Lab"
+        width="118"
+        height="118"
+        style="width: 118px; height: auto; margin: 0 auto 1.1rem; border-radius: 0"
+      />
+    </picture>
+
     <img
       class="img-responsive center-block"
       src="/images/sine_lab_banner.jpg"
