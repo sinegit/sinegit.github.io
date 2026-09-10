@@ -31,6 +31,9 @@ MEDICAL_VENUE = re.compile(
 MEDICAL_TOPIC = re.compile(
     r"pericardial|retroviral|cardiac surgery|burnout|cognitive fusion|dyspnea|"
     r"immunomagnetic|vector purification|patients?\b|clinical trial", re.I)
+# education material and recordings: real output, but not bibliography entries.
+# These belong under "Beyond the classroom" on the teaching page.
+EDUCATION_VENUE = re.compile(r"resource center|educational? resource|webinar|tutorial series", re.I)
 # things OpenAlex/Scholar index as papers that are not papers
 NOT_A_PAPER = re.compile(
     r"^(cartoon|humor|errata|corrigend|front matter|table of contents|"
@@ -125,6 +128,9 @@ def main():
             skipped.append((title, venue, "looks like the other A. Scaglione (medical)")); continue
         if NOT_A_PAPER.search(title):
             skipped.append((title, venue, "not a publication")); continue
+        if EDUCATION_VENUE.search(venue):
+            skipped.append((title, venue,
+                "education resource, not a publication - belongs on the teaching page")); continue
 
         tw = norm_words(title)
         best = max((jaccard(tw, bt) for bt in bib_titles), default=0.0)

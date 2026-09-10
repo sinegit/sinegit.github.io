@@ -263,6 +263,16 @@ students.</p>
   vol. 35, 2018.</div>
 </div>
 
+<div class="course plaincard">
+  <h3>How Do We Teach Signal Processing Courses in the Era of AI?</h3>
+  <div class="sub">Panel recording &nbsp;·&nbsp; IEEE Signal Processing Society &nbsp;·&nbsp; December 2025</div>
+  <p>A panel on what AI does to signal processing teaching &mdash; using the tools in class, rethinking assessment, and
+  what students now need to graduate with. With Al Bovik, Edward J. Delp, Sharon Gannot, Aggelos K. Katsaggelos, Andreas
+  Spanias, and moderators Marios S. Pattichis and Andres Kwasinski. The written account of these roundtables appeared in
+  <i>IEEE Signal Processing Magazine</i> in 2026.</p>
+  <div class="meta"><a href="https://rc.signalprocessingsociety.org/education/panels/sps_edu_pan_bovik_121725">Watch the panel (1h 50m)</a></div>
+</div>
+
 <details>
   <summary>Previously taught</summary>
   <p class="past" style="margin-top:1rem">
