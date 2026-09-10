@@ -208,28 +208,17 @@ students.</p>
   <div class="meta"><a href="/assets/teaching/talks/pint-of-science-2026.pdf">Slides (PDF, 27 pages)</a></div>
 </div>
 
-<div class="course sidecard">
-  <a href="https://www.youtube.com/playlist?list=PLfMzjeGTdcav8saj5RIySjRByViHuxFdI">
-    <img class="sideshot" src="/images/teaching/small-bits.jpg"
-         alt="Cartoon characters A and B from the Information in Small Bits animations" loading="lazy">
-  </a>
-  <div class="sidebody">
-    <h3>Information in Small Bits</h3>
-    <div class="sub">Information theory for kids &nbsp;·&nbsp; IEEE Information Theory Society</div>
-    <p>A book that explains information theory through story and pictures. It began as a joke: Anna drew each story as an
-    8&times;11 pencil sketch and sent the cartoons to Christina Fragouli, who was serving on the committee choosing
-    narratives to celebrate the Claude Shannon centennial &mdash; an effort aimed at teenagers. Christina thought the
-    cartoons had value, and wrote the educational explanations that accompany the drawings. The IEEE Information Theory
-    Society published the result as a non-profit outreach project.</p>
-    <p>The mathematics under the drawings is exact, and the jokes reward a reader who already knows it: when B steps onto
-    the scale, the weight it reads is the information carried by the letter B in the English alphabet. Catching that takes
-    a fairly mature reader &mdash; the pictures never give it away.</p>
-    <div class="meta">
-      <a href="https://www.amazon.com/dp/B07HD64KW4">The book</a> &nbsp;·&nbsp;
-      <a href="https://www.youtube.com/playlist?list=PLfMzjeGTdcav8saj5RIySjRByViHuxFdI">Animated video series</a>
-    </div>
-  </div>
+
+<div class="course plaincard">
+  <h3>How Do We Teach Signal Processing Courses in the Era of AI?</h3>
+  <div class="sub">Panel recording &nbsp;·&nbsp; IEEE Signal Processing Society &nbsp;·&nbsp; December 2025</div>
+  <p>A panel on what AI does to signal processing teaching &mdash; using the tools in class, rethinking assessment, and
+  what students now need to graduate with. With Al Bovik, Edward J. Delp, Sharon Gannot, Aggelos K. Katsaggelos, Andreas
+  Spanias, and moderators Marios S. Pattichis and Andres Kwasinski. The written account of these roundtables appeared in
+  <i>IEEE Signal Processing Magazine</i> in 2026.</p>
+  <div class="meta"><a href="https://rc.signalprocessingsociety.org/education/panels/sps_edu_pan_bovik_121725">Watch the panel (1h 50m)</a></div>
 </div>
+
 
 <div class="course plaincard">
   <h3>WeCREATE Inspiration Session</h3>
@@ -240,6 +229,7 @@ students.</p>
   and AI.</p>
   <div class="meta"><a href="https://www.vanderschaar-lab.com/wecreate-inspiration-session-1/">Session page</a></div>
 </div>
+
 
 <div class="course plaincard">
   <h3>Cartoons for <i>IEEE Signal Processing Magazine</i></h3>
@@ -263,14 +253,28 @@ students.</p>
   vol. 35, 2018.</div>
 </div>
 
-<div class="course plaincard">
-  <h3>How Do We Teach Signal Processing Courses in the Era of AI?</h3>
-  <div class="sub">Panel recording &nbsp;·&nbsp; IEEE Signal Processing Society &nbsp;·&nbsp; December 2025</div>
-  <p>A panel on what AI does to signal processing teaching &mdash; using the tools in class, rethinking assessment, and
-  what students now need to graduate with. With Al Bovik, Edward J. Delp, Sharon Gannot, Aggelos K. Katsaggelos, Andreas
-  Spanias, and moderators Marios S. Pattichis and Andres Kwasinski. The written account of these roundtables appeared in
-  <i>IEEE Signal Processing Magazine</i> in 2026.</p>
-  <div class="meta"><a href="https://rc.signalprocessingsociety.org/education/panels/sps_edu_pan_bovik_121725">Watch the panel (1h 50m)</a></div>
+
+<div class="course sidecard">
+  <a href="https://www.youtube.com/playlist?list=PLfMzjeGTdcav8saj5RIySjRByViHuxFdI">
+    <img class="sideshot" src="/images/teaching/small-bits.jpg"
+         alt="Cartoon characters A and B from the Information in Small Bits animations" loading="lazy">
+  </a>
+  <div class="sidebody">
+    <h3>Information in Small Bits</h3>
+    <div class="sub">Information theory for kids &nbsp;·&nbsp; IEEE Information Theory Society &nbsp;·&nbsp; November 2017</div>
+    <p>A book that explains information theory through story and pictures. It began as a joke: Anna drew each story as an
+    8&times;11 pencil sketch and sent the cartoons to Christina Fragouli, who was serving on the committee choosing
+    narratives to celebrate the Claude Shannon centennial &mdash; an effort aimed at teenagers. Christina thought the
+    cartoons had value, and wrote the educational explanations that accompany the drawings. The IEEE Information Theory
+    Society published the result as a non-profit outreach project.</p>
+    <p>The mathematics under the drawings is exact, and the jokes reward a reader who already knows it: when B steps onto
+    the scale, the weight it reads is the information carried by the letter B in the English alphabet. Catching that takes
+    a fairly mature reader &mdash; the pictures never give it away.</p>
+    <div class="meta">
+      <a href="https://www.amazon.com/dp/B07HD64KW4">The book</a> &nbsp;·&nbsp;
+      <a href="https://www.youtube.com/playlist?list=PLfMzjeGTdcav8saj5RIySjRByViHuxFdI">Animated video series</a>
+    </div>
+  </div>
 </div>
 
 <details>
