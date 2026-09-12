@@ -88,3 +88,8 @@ Temporary Items
 
 desktop.ini
 .vscode/
+
+### Local Jekyll preview (not needed by the GitHub Pages build) ###
+vendor/
+.bundle/
+Gemfile.lock
