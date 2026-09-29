@@ -23,9 +23,9 @@ Power grid measurements are signals on a graph, and the graph changes: feeders g
 
 #### Differential privacy for grid data
 
-<img src="{{site.baseurl}}/images/research/dp-data-gateway.jpg" alt="The DP data gateway: each utility trains a differentially private model on its own private load data, generates synthetic samples, runs power flow and releases private outputs under a privacy budget; the released data becomes a reusable DP-certified corpus of labeled voltage phasors that trains a grid foundation model, which in turn supports certified operational decisions with uncertainty quantified over the grid representation manifold" width="100%" data-action="zoom" style="margin:10px 0">
-
 Utilities are reluctant to share their data, which holds back machine learning for the grid. We work on releasing grid data with formal differential privacy guarantees: privatize the load data once, then release synthetic measurements and power flow solutions that can be used for any downstream task. This includes the theory of privacy for graph filters and network parameters, and practical release mechanisms for distribution grid voltage phasors. Andrew Campbell and Chenyue Zhang work on this. Sponsored by the DoE GENESIS program and led by Lawrence Berkeley National Laboratory (lead PI), in collaboration with Lawrence Livermore National Laboratory and Kevala.
+
+<img src="{{site.baseurl}}/images/research/dp-data-gateway.jpg" alt="The DP data gateway: each utility trains a differentially private model on its own private load data, generates synthetic samples, runs power flow and releases private outputs under a privacy budget; the released data becomes a reusable DP-certified corpus of labeled voltage phasors that trains a grid foundation model, which in turn supports certified operational decisions with uncertainty quantified over the grid representation manifold" width="100%" data-action="zoom" style="margin:10px 0">
 
 - [Differentially Private Synthetic Voltage Phasor Release for Distribution Grids](https://arxiv.org/abs/2605.02390)
 - [Decentralized differentially private power method](https://arxiv.org/abs/2507.22849)
